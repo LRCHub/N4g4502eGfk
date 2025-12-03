@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Virtual Insanity",
+  "base_artist": "Jamiroquai",
+  "createdAt": "2025-12-03T06:33:21.562016Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/01_Virtual_Insanity_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/02_Virtual_Insanity_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Virtual Insanity (Remastered)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/03_Virtual_Insanity_(Remastered)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jamirobeegees Mashup: Stayin' Alive / Virtual Insanity",
+      "artist": "Pomplamoose",
+      "has_synced": true,
+      "path": "select/04_Jamirobeegees_Mashup__Stayin'_Alive___Virtual_Insanity_Pomplamoose.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Virtual Insanity - Remastered",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/05_Virtual_Insanity_-_Remastered_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/06_Virtual_Insanity_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/07_Virtual_Insanity_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Virtual Insanity - Salaam Remi Remix",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/08_Virtual_Insanity_-_Salaam_Remi_Remix_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Virtual Insanity (Salaam Remi remix)",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/09_Virtual_Insanity_(Salaam_Remi_remix)_Jamiroquai.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Virtual Insanity - Live at the Verona Amphitheatre, Italy, 2002",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/10_Virtual_Insanity_-_Live_at_the_Verona_Amphitheatre,_Italy,_2002_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Virtual Insanity (Salaam Remi Remix)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/11_Virtual_Insanity_(Salaam_Remi_Remix)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/12_Virtual_Insanity_平井_堅.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "平井堅",
+      "has_synced": false,
+      "path": "select/13_Virtual_Insanity_平井堅.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Virtual Insanity (Live at the Verona Amphitheatre, Italy, 2002)",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/14_Virtual_Insanity_(Live_at_the_Verona_Amphitheatre,_Italy,_2002)_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "has_synced": true,
+      "path": "select/15_Virtual_Insanity_Jamiroquai.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Virtual Insanity",
+      "artist": "TAEYONG",
+      "has_synced": true,
+      "path": "select/16_Virtual_Insanity_TAEYONG.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Virtual Insanity",
+      "artist": "Jamiroquai",
+      "has_synced": false,
+      "path": "select/pl_01_Virtual_Insanity_Jamiroquai.txt"
+    }
+  ]
+}
